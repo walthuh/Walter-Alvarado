@@ -1,6 +1,6 @@
 # Walter-Alvarado
 A project I did for my Computer Science class! 
-The author would be Me! Walter Alvarado
+The author would be Me! Walter Alvarado,
 A program to help a Solar Sales Person find the best route for his trip.
 * Mainly the problem I'm solving for this case is what is the best and shortest route for the salesperson 
 
